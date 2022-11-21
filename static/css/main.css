@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200&display=swap');
+
+
+
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Fira Sans', sans-serif;s
+}
+
+
+body {
+    background-image: radial-gradient(circle at 0% 0%, #e1ddff 0, #aeaee5 50%, #7982c4 100%);
+    background-size: 100%;
+   background-repeat: no-repeat
+}
+
